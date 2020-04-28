@@ -1,0 +1,9 @@
+C:\Users\screw\source\repos\Generadora\bin\Release\netstandard2.0\Generadora.deps.json
+C:\Users\screw\source\repos\Generadora\bin\Release\netstandard2.0\Generadora.dll
+C:\Users\screw\source\repos\Generadora\bin\Release\netstandard2.0\Generadora.pdb
+C:\Users\screw\source\repos\Generadora\obj\Release\netstandard2.0\Generadora.csprojAssemblyReference.cache
+C:\Users\screw\source\repos\Generadora\obj\Release\netstandard2.0\Generadora.csproj.CoreCompileInputs.cache
+C:\Users\screw\source\repos\Generadora\obj\Release\netstandard2.0\Generadora.AssemblyInfoInputs.cache
+C:\Users\screw\source\repos\Generadora\obj\Release\netstandard2.0\Generadora.AssemblyInfo.cs
+C:\Users\screw\source\repos\Generadora\obj\Release\netstandard2.0\Generadora.dll
+C:\Users\screw\source\repos\Generadora\obj\Release\netstandard2.0\Generadora.pdb

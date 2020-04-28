@@ -1,0 +1,13 @@
+C:\Users\screw\source\repos\FormGeneradora\bin\Debug\FormGeneradora.exe.config
+C:\Users\screw\source\repos\FormGeneradora\bin\Debug\FormGeneradora.exe
+C:\Users\screw\source\repos\FormGeneradora\bin\Debug\FormGeneradora.pdb
+C:\Users\screw\source\repos\FormGeneradora\obj\Debug\FormGeneradora.csprojAssemblyReference.cache
+C:\Users\screw\source\repos\FormGeneradora\obj\Debug\FormGeneradora.Form1.resources
+C:\Users\screw\source\repos\FormGeneradora\obj\Debug\FormGeneradora.Properties.Resources.resources
+C:\Users\screw\source\repos\FormGeneradora\obj\Debug\FormGeneradora.csproj.GenerateResource.cache
+C:\Users\screw\source\repos\FormGeneradora\obj\Debug\FormGeneradora.csproj.CoreCompileInputs.cache
+C:\Users\screw\source\repos\FormGeneradora\obj\Debug\FormGeneradora.exe
+C:\Users\screw\source\repos\FormGeneradora\obj\Debug\FormGeneradora.pdb
+C:\Users\screw\source\repos\FormGeneradora\bin\Debug\Generadora.dll
+C:\Users\screw\source\repos\FormGeneradora\bin\Debug\Generadora.pdb
+C:\Users\screw\source\repos\FormGeneradora\obj\Debug\FormGeneradora.csproj.CopyComplete
